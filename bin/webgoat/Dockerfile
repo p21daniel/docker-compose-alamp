@@ -1,1 +1,0 @@
-FROM webgoat/goatandwolf:latest
